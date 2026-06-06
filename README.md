@@ -20,8 +20,8 @@ Since this is a Unity WebGL build, you need a local HTTP server to run it (brows
 ### Option 1 — Python (recommended)
 
 ```bash
-git clone https://github.com/kalyan405111/Friut-Catcher.git
-cd Friut-Catcher/UpdateFruit/UpdateFruit
+git clone https://github.com/kalyan405111/Fruit-Catcher.git
+cd Fruit-Catcher/UpdateFruit/UpdateFruit
 python3 -m http.server 8080
 ```
 
@@ -45,7 +45,7 @@ You can share the game publicly using GitHub Pages:
 4. Click **Save**
 
 Your game will be live at:
-`https://kalyan405111.github.io/Friut-Catcher/`
+`https://kalyan405111.github.io/Fruit-Catcher/`
 
 ---
 
@@ -64,7 +64,7 @@ Your game will be live at:
 ## 📁 Project Structure
 
 ```
-Friut-Catcher/
+Fruit-Catcher/
 └── UpdateFruit/UpdateFruit/
     ├── index.html                          # Game entry point
     ├── Build/
